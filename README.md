@@ -725,75 +725,7 @@ p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px 'Helvetica Neue'; color: #dc
 </p>
 <p><br>
 </p>
-      
-    </div>
-  </div>
-</div>
-
-
-      
-        </div>
-      
-
-    
   
-
-
-  
-
-  
-    </div>
-  
-
-
-
-
-
-
-
-
-      
-        
-<footer class="bottom-menu bottom-menu-inverse">
-  <div class="container">
-  <div class="row" style="color:#FFFFFF">
-      <div class="col-xs-12 col-sm-4 col-md-4 footer-column">
-        <p>
-          ©
-          The App Brewery
-        </p>
-      </div>
-      <div class="col-xs-12 col-sm-4 col-md-4 footer-column">
-        <ul class="list-unstyled">
-          <li>
-            <a href="/p/terms" style="color:#FFFFFF">
-              Terms of Use
-            </a>
-          </li>
-          <li>
-            <a href="/p/privacy" style="color:#FFFFFF">
-              Privacy Policy
-            </a>
-          </li>
-        </ul>
-      </div>
-      <div class="col-xs-12 col-sm-4 col-md-4 footer-column">
-
-  <a href="https://facebook.com/londonappbrewery" style="color:#FFFFFF"><i class="fa fa-facebook"></i></a>
-            <a href="https://twitter.com/londonappbrewer" style="color:#FFFFFF"><i class="fa fa-twitter"></i></a>
-            <a href="https://www.linkedin.com/company/london-app-brewery" style="color:#FFFFFF"><i class="fa fa-linkedin"></i></a>
-        </div>
-
-      </div>
-
-  </div>
-</footer>
-
-
-      
-      
-        </div>
-      
     
     
   
